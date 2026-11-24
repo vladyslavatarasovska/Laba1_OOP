@@ -1,0 +1,10 @@
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\bin\Debug\net472\LR_1.exe.config
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\bin\Debug\net472\LR_1.exe
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\bin\Debug\net472\LR_1.pdb
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.csproj.AssemblyReference.cache
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.AssemblyInfoInputs.cache
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.AssemblyInfo.cs
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.exe
+C:\Users\Vladyslava\Desktop\LR1_Variant4\LR_1\obj\Debug\net472\LR_1.pdb
