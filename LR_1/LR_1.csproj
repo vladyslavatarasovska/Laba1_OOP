@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net472</TargetFramework>
@@ -9,10 +8,8 @@
     <LangVersion>latest</LangVersion>
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
   </PropertyGroup>
-
   <ItemGroup>
     <!-- Компонент Chart (System.Windows.Forms.DataVisualization) входить до .NET Framework -->
     <Reference Include="System.Windows.Forms.DataVisualization" />
   </ItemGroup>
-
 </Project>
